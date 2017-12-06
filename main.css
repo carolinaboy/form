@@ -1,5 +1,5 @@
 h1{
-  font-size: 35px;
+  font-size: 45px;
   text-align: center;
 }
 
@@ -9,4 +9,9 @@ form{
 
 body{
   background-color: #739cdd;
+}
+
+p{
+  font-size: 25px;
+  text-align: center;
 }
